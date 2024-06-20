@@ -1,0 +1,6 @@
+framework module BFL_SDK {
+  umbrella header "BFL_SDK.h"
+
+  export *
+  module * { export * }
+}

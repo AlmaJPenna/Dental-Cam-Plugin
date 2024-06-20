@@ -1,0 +1,70 @@
+PODS:
+  - dental_camera_s700c_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_ffmpeg (0.4.2):
+    - Flutter
+    - flutter_ffmpeg/https (= 0.4.2)
+  - flutter_ffmpeg/https (0.4.2):
+    - Flutter
+    - mobile-ffmpeg-https (= 4.4)
+  - gal (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - integration_test (0.0.1):
+    - Flutter
+  - mobile-ffmpeg-https (4.4)
+  - open_settings_plus (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+
+DEPENDENCIES:
+  - dental_camera_s700c_plugin (from `.symlinks/plugins/dental_camera_s700c_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_ffmpeg (from `.symlinks/plugins/flutter_ffmpeg/ios`)
+  - gal (from `.symlinks/plugins/gal/darwin`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - open_settings_plus (from `.symlinks/plugins/open_settings_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+SPEC REPOS:
+  trunk:
+    - mobile-ffmpeg-https
+
+EXTERNAL SOURCES:
+  dental_camera_s700c_plugin:
+    :path: ".symlinks/plugins/dental_camera_s700c_plugin/ios"
+  Flutter:
+    :path: Flutter
+  flutter_ffmpeg:
+    :path: ".symlinks/plugins/flutter_ffmpeg/ios"
+  gal:
+    :path: ".symlinks/plugins/gal/darwin"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  open_settings_plus:
+    :path: ".symlinks/plugins/open_settings_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  dental_camera_s700c_plugin: dca7b4c1607027f1d4dd654d196f4ec3c35a6e4d
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_ffmpeg: 26a01318e1fa4ebdbd1561848050aadc807d51a9
+  gal: 61e868295d28fe67ffa297fae6dacebf56fd53e1
+  integration_test: ce0a3ffa1de96d1a89ca0ac26fca7ea18a749ef4
+  mobile-ffmpeg-https: 311fc4a8f671cf36d1d6b8f421e8246b790978d9
+  open_settings_plus: 4bd848866fea2becc124581d868a6164cf768831
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+
+PODFILE CHECKSUM: 32f00028689cfcfd09d14ae3ca4607680027d3a4
+
+COCOAPODS: 1.15.2
