@@ -1,7 +1,7 @@
-# Dental Camera S700C Plugin
+# Dental Cam Plugin
 
 ## Overview
-The Dental Camera S700C Plugin is a versatile Flutter plugin that integrates seamlessly with both iOS and Android platforms to provide advanced camera functionalities tailored for dental applications. This plugin enables users to capture high-quality photos and videos, view a live camera feed, and save media directly to the device. It leverages native code for optimized performance and smooth operation.
+The Dental Cam Plugin is a versatile Flutter plugin that integrates seamlessly with both iOS and Android platforms to provide advanced camera functionalities tailored for dental applications. This plugin enables users to capture high-quality photos and videos, view a live camera feed, and save media directly to the device. It leverages native code for optimized performance and smooth operation.
 
 ## Key Features
 - **Cross-Platform Support:** Compatible with both iOS and Android devices.
@@ -17,11 +17,6 @@ The Dental Camera S700C Plugin is a versatile Flutter plugin that integrates sea
 - **Dart:** The primary programming language used in Flutter.
 - **Objective-C:** For native iOS integration, handling camera management and operations.
 - **Java:** For native Android integration, managing camera preview and recording.
-- **Libraries:**
-  - `path_provider`: Manages file storage paths.
-  - `permission_handler`: Manages application permissions.
-  - `flutter_ffmpeg`: Handles video processing tasks.
-  - `gal`: Manages saving images and videos to the device gallery.
 
 ## Technical Details
 
@@ -41,7 +36,7 @@ The Android part of the plugin is implemented using Java. It includes:
 - **UI Integration:** Uses a `SurfaceView` to display the camera feed within the Flutter application.
 
 ## Use Case
-The Dental Camera S700C Plugin is designed for use in the dental field, enabling professionals to capture high-quality images and videos of patients' dental conditions. This facilitates accurate documentation and improves diagnostic capabilities.
+The Dental Cam Plugin is designed for use in the dental field, enabling professionals to capture high-quality images and videos of patients' dental conditions. This facilitates accurate documentation and improves diagnostic capabilities.
 
 ## Target Audience
 - Dental professionals.
